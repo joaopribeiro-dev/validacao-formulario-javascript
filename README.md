@@ -15,6 +15,8 @@ Projeto simples de formulário de cadastro de usuário feito com HTML, CSS e Jav
 2. Abra o arquivo `index.html` em um navegador.
 3. Preencha os campos e clique em **Cadastrar**.
 
+Ou se preferir, pode acessar diretamente pelo link: https://joaopribeiro-dev.github.io/validacao-formulario-javascript/
+
 Não é necessário instalar dependências ou iniciar um servidor.
 
 ## Arquivos
